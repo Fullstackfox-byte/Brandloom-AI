@@ -122,7 +122,7 @@ More detail lives in [`docs/architecture.md`](docs/architecture.md) and [`docs/p
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/Brandloom-AI.git
+git clone https://github.com/Fullstackfox-byte/Brandloom-AI.git
 cd Brandloom-AI
 
 # 2. Install dependencies (root, server, client)
@@ -277,6 +277,7 @@ Brandloom-AI/
 │       └── utils/              # Email sending
 └── docs/                       # Architecture and prompt design notes
 ```
+
 
 ## License
 
